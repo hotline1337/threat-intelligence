@@ -198,7 +198,7 @@ This project is licensed under the GNU General Public License v3.0 (GPLv3). For 
 
 ## Donation Options
 
-If you find this bot useful and would like to support its development, you can make a donation via the following methods:
+If you find this article useful and would like to support me, you can make a donation via the following methods:
 - **Bitcoin:** 3BRfR5wTG8br6WHHg8t4VR7z43Ej8mTUV5
 - **Ethereum:** 0xc9a6e7175c55649dcc8ba0821cc2228193873755
 - **Litecoin:** LXFmz25B36d3XcergMd4ttCjXPX9FnYTn6
